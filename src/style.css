@@ -1,3 +1,24 @@
-h1, p {
-  font-family: Lato;
+body{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: black;
+}
+
+.styleHeader {
+  border: 1px solid black;
+  padding: 10px;
+  background-color: blanchedalmond;
+}
+
+.styleSearchArea {
+  border: 1px solid black;
+margin-top: 10px;
+padding: 10px;
+background-color: antiquewhite;
+}
+
+.styleMatchArea {
+  border: 1px solid black;
+  margin-top: 10px;
+  padding: 10px;
+  background-color: bisque;
 }
